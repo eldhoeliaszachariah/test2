@@ -64,7 +64,7 @@ Open `aibt_mt_manyika.sh` in the VI editor:
 vi aibt_mt_manyika.sh
 ```
 
-Save and exit.
+
 
 Change `mypath` to the current folder path.  
 Example:  
@@ -76,6 +76,8 @@ to
 ```bash
 export mypath=/home/calnic/AIBT_Africa/manyika_aibt
 ```
+
+Save and exit.
 
 ## Usage
 
